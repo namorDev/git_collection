@@ -29,6 +29,7 @@ A collection of useful git links
 - [Git-flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 - [Youtube lesson about git internals](https://www.youtube.com/watch?v=2sjqTHE0zok&feature=youtu.be)
 - [Exploring git internals](https://articles.foletta.org/post/git-under-the-hood)
+- [Youtube lesson about advanced git](https://www.youtube.com/watch?v=hZS96dwKvt0)
 
 # Tools
 - [Drawing git graphs](https://www.nicoespeon.com/talk-drawing-git-graphs/#0)
